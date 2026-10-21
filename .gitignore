@@ -7,5 +7,5 @@ models/*.pt
 models/*.joblib
 ##results/*.png
 ##results/*.csv
-results/*.json
+##results/*.json
 .DS_Store
