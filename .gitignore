@@ -5,7 +5,7 @@ data/raw/
 data/processed/
 models/*.pt
 models/*.joblib
-results/*.png
-results/*.csv
+##results/*.png
+##results/*.csv
 results/*.json
 .DS_Store
